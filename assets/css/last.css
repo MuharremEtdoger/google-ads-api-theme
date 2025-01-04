@@ -1,0 +1,17 @@
+.ars-card-title-area{
+    display: inline-block;
+    width: 100%;
+}
+.ars-card-title{
+    display: inline-block;
+    float: left;
+    margin-bottom: 0 !important;
+    line-height: 32px;
+}
+.ars-card-title-actions{
+	display: inline-block;
+    float: right;
+}
+.ars-vis-hidden{
+	visibility:hidden;
+}
